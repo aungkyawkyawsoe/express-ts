@@ -1,5 +1,3 @@
-Here’s a concise `README.md` documentation for your project:
-
 # Express API with TypeScript
 
 This project is an Express API built using TypeScript, featuring both unit and end-to-end (E2E) testing for a comprehensive development and testing environment.
